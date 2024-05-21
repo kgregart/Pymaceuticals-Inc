@@ -73,7 +73,7 @@ __6. Calculate correlation and regression__
 
 ### Summary Statistics
 
-![Summary_Statistics](https://github.com/kgregart/Pymaceuticals-Inc/blob/main/Pymaceuticals/graph%20images/Summary%20Statistics.png)
+![Summary_Statistics](https://github.com/kgregart/Pymaceuticals-Inc/blob/main/Pymaceuticals/images/Summary%20Statistics.png)
 
 The overall data shows the best drug regimens to treat tumors in mice are Capomulin and Ramicane.  Each of these drug regimens had the greatest population of mice tested with the lowest final tumor volume.  With no outliers to skew the data, the Capomulin and Ramicane regimens both had the lowest variations averaging about the same tumor volume, indicating a more consistent treatment outcome among the entire population tested.  
 
