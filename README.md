@@ -29,9 +29,9 @@ __2. Generate summary statistics__
 
   - Include each item in the summary of statistics:
 
-      - A row for each drug regimen. These regimen names should be contained in the index column.
+    - A row for each drug regimen. These regimen names should be contained in the index column.
 
-      - A column for each of the following statistics: mean, median, variance, standard
+    - A column for each of the following statistics: mean, median, variance, standard
          deviation, and SEM of the tumor volume.
 
 __3. Create bar charts and pie charts__
