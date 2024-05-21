@@ -20,7 +20,7 @@ __1. Prepare the data__
       new DataFrame where this data is removed. Use this cleaned DataFrame for the remaining 
       steps.
       
-    - Display the updated number of unique mice IDs.
+  - Display the updated number of unique mice IDs.
 
 __2. Generate summary statistics__
 
