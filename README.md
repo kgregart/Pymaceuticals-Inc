@@ -52,14 +52,14 @@ __4. Calculate quartiles, find outliers, and create a box plot__
 
   - Calculate the final tumor volume of each mouse across four of the most promising treatment   regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and    IQR, and              determine if there are any potential outliers across all four treatment regimens.   Use the following substeps:
 
-        - Create a grouped DataFrame that shows the last (greatest) time point for each mouse. Merge this grouped DataFrame with the original cleaned DataFrame.
+      - Create a grouped DataFrame that shows the last (greatest) time point for each mouse. Merge this grouped DataFrame with the original cleaned DataFrame.
 
-        - Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data.
+      - Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data.
 
-        - Loop through each drug in the treatment list, locating the rows in the merged DataFrame 
+      - Loop through each drug in the treatment list, locating the rows in the merged DataFrame 
          that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
 
-        - Determine outliers by using the upper and lower bounds, and then print the results.
+  - Determine outliers by using the upper and lower bounds, and then print the results.
 
   -  Using Matplotlib, generate a box plot that shows the distribution of the final tumor   
       volume for all the mice in each treatment group. Highlight any potential outliers in the   
