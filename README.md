@@ -70,3 +70,10 @@ __6. Calculate correlation and regression__
   - Plot the linear regression model on top of the previous scatter plot.
 
 ## Results Summary
+
+The overall data shows the best drug regimens to treat tumors in mice are Capomulin and Ramicane.  Each of these drug regimens had the greatest population of mice tested with the lowest final tumor volume.  With no outliers to skew the data, the Capomulin and Ramicane regimens both had the lowest variations averaging about the same tumor volume, indicating a more consistent treatment outcome among the entire population tested.  
+
+Studying a sample from the data for these two drug treatments showed that as treatment time increased, the number of tumors decreased modeling a negative linear regression.  Furthermore, graphing and calculating the mouse weight and tumor volume data from these same samples found a positive linear regression and high correlation (above 80%) between these variables to confidently state that the heavier the mouse, the larger the tumor. 
+
+Though the overall population tested for all regimens shows almost an even split between genders, I would recommend further analysis to discover if there is a correlation between gender and drug regimens as this could be a variable in how well the drug interacts with the tumor overtime.
+
