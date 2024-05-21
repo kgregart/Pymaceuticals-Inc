@@ -27,7 +27,7 @@ __2. Generate summary statistics__
   - Create a DataFrame of summary statistics. Remember, there is more than one method to 
       produce the results you're after, so the method you use is less important than the result.
 
-  - Include each item in the summary of statistics:
+  - Include each item in the summary statistics:
 
     - A row for each drug regimen. These regimen names should be contained in the index column.
 
