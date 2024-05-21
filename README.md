@@ -38,15 +38,15 @@ __3. Create bar charts and pie charts__
 
   - Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
-  - Create the first bar chart with the Pandas DataFrame.plot() method.
+    - Create the first bar chart with the Pandas DataFrame.plot() method.
 
-  - Create the second bar chart with Matplotlib's pyplot methods.
+    - Create the second bar chart with Matplotlib's pyplot methods.
 
   - Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
-  - Create the first pie chart with the Pandas DataFrame.plot() method.
+    - Create the first pie chart with the Pandas DataFrame.plot() method.
 
-  - Create the second pie chart with Matplotlib's pyplot methods.
+    - Create the second pie chart with Matplotlib's pyplot methods.
 
 __4. Calculate quartiles, find outliers, and create a box plot__
 
